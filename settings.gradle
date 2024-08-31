@@ -10,6 +10,4 @@ pluginManagement {
 rootProject.name = 'luckperms-placeholders'
 
 include(':common')
-include(':bukkit-placeholderapi')
-include(':bukkit-mvdw')
 include(':fabric-placeholderapi')
